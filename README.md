@@ -11,4 +11,6 @@ The driver uses the newest OpenAi-GPT4 model to detect a key-press. When detecte
 We have tested Quack-Keyboard at leading tech-companies like Google, Meta, Netflix and Microsoft.
 This graph shows how the workflow of over 3000 professional computer-users has improved in just two weeks of using Quack-Keyboard as their daily driver:
 
-![Graph of user-improvements](https://www.onlinemathlearning.com/image-files/line-graphs-1.gif.pagespeed.ce.89UEfPOvJC.gif)
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://www.onlinemathlearning.com/image-files/line-graphs-1.gif.pagespeed.ce.89UEfPOvJC.gif)"/>
+</p>
